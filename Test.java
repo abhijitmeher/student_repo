@@ -17,11 +17,7 @@ public class Test {
         student.setMobile(9692910264L);
         student.setCourse(course);
 
-        System.out.println(student);
+        System.out.println("Student created successfully... !!");
 
-        student.setName("Payal Meher");
-        student.setEmail("payalmeher8537@gmail.com");
-    
-        System.out.println(student);
     }
 }
