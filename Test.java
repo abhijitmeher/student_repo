@@ -19,5 +19,9 @@ public class Test{
 
         System.out.println(student);
 
+        student.setName("Payal Meher");
+        student.setEmail("payalmeher8537@gmail.com");
+    
+        System.out.println(student);
     }
 }
