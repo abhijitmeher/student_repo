@@ -1,7 +1,7 @@
-public class Test{
+public class Test {
 
     public static void main(String[] args) {
-        
+
         Course course = new Course();
         course.setCid(101);
         course.setCourseName("FullStack Java");
