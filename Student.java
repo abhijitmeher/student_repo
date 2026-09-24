@@ -5,7 +5,7 @@ public class Student {
     private String email;
     private String address;
     private String gender;
-    private Long mobile;
+    private Long mobile;    
     private Course course;
 
     public  Student(){
