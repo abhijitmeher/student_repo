@@ -19,7 +19,7 @@ public class Test {
 
         System.out.println(student);
 
-        System.out.println("This is Student management Application... !!");
+        System.out.println("Nice to met you... !!");
 
     }
 }
