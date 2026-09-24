@@ -17,7 +17,7 @@ public class Test {
         student.setMobile(9692910264L);
         student.setCourse(course);
 
-        System.out.println("Student created successfully... !!");
+        System.out.println(student);
 
     }
 }
